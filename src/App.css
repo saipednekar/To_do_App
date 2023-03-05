@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.back{
+  background-image: url("/home/sai/React_to_do_app/tasks/img/b.jpg");
+  background-size:cover;
+  background-position: center;
+
+
+
+}
