@@ -1,5 +1,5 @@
 # json-server
-jason server port is 5000
+json server port is 5000
 
 
 #About the webapp
